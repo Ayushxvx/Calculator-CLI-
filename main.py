@@ -1,0 +1,8 @@
+print("********* Welcome to the Calculator *********")
+x = int(input("Enter The First Number :- "))
+y = int(input("Enter The Second Number :- "))
+print(f"{x} + {y} = {x+y}")
+print(f"{x} - {y} = {x-y}")
+print(f"{x} * {y} = {x*y}")
+print(f"{x} / {y} = {x/y}")
+print(f"{x} to the power of  {y} = {x**y}")
